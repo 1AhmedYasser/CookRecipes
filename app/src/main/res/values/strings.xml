@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">CookRecipes</string>
+
+    <!-- Edit text search hint -->
+    <string name="search_for_a_recipe">Search for a recipe...</string>
+
+    <!-- search button text -->
+    <string name="search">Search</string>
+
+    <!-- recipe info activity text -->
+    <string name="description">Description:</string>
+    <string name="category">Category:</string>
+    <string name="sub_category">Sub Category:</string>
+    <string name="rating">Rating:</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="instructions">Instructions:</string>
+    <string name="No_Description">No description</string>
+
+    <!-- Empty View conditions -->
+    <string name="No_Internet">No Internet Connection</string>
+    <string name="No_Results">No results found , search again</string>
+    <string name="Start_Search">Start searching for recipes now</string>
+
+    <!-- Activity labels -->
+    <string name="Recipe_Catalog_Label">Recipe Catalog</string>
+    <string name="Recipe_Info_Label">Recipe Info</string>
+
+</resources>
